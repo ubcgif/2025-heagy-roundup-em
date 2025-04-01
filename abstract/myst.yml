@@ -23,7 +23,7 @@ project:
   date: 2025-01-19
   abbreviations:
     # DC: direct current
-    # EM: electromagnetics
+    EM: electromagnetics
   # github:
   # bibliography: []
   # keywords:
